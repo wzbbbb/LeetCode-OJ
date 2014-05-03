@@ -1,0 +1,23 @@
+http://oj.leetcode.com/problems/candy/
+
+Candy
+Total Accepted: 9620 Total Submissions: 54777
+
+There are N children standing in a line. Each child is assigned a rating value.
+
+You are giving candies to these children subjected to the following requirements:
+
+    Each child must have at least one candy.
+    Children with a higher rating get more candies than their neighbors.
+
+What is the minimum candies you must give? 
+
+
+Candy
+Submission Details
+27 / 27 test cases passed.
+	Status:
+Accepted
+Runtime: 376 ms
+	
+Submitted: 2 months, 3 weeks ago

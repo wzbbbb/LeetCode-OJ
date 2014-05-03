@@ -1,0 +1,23 @@
+http://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/
+
+
+Search in Rotated Sorted Array II
+Total Accepted: 8553 Total Submissions: 28578
+
+Follow up for "Search in Rotated Sorted Array":
+What if duplicates are allowed?
+
+Would this affect the run-time complexity? How and why?
+
+Write a function to determine if a given target is in the array.
+
+
+
+Search in Rotated Sorted Array II
+Submission Details
+271 / 271 test cases passed.
+	Status:
+Accepted
+Runtime: 188 ms
+	
+Submitted: 3 months ago

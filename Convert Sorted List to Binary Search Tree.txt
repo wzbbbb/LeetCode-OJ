@@ -1,0 +1,16 @@
+http://oj.leetcode.com/problems/convert-sorted-list-to-binary-search-tree/
+
+Convert Sorted List to Binary Search Tree
+Total Accepted: 10028 Total Submissions: 37499
+
+Given a singly linked list where elements are sorted in ascending order, convert it to a height balanced BST.
+
+
+Convert Sorted List to Binary Search Tree
+Submission Details
+32 / 32 test cases passed.
+	Status:
+Accepted
+Runtime: 556 ms
+	
+Submitted: 2 months, 3 weeks ago

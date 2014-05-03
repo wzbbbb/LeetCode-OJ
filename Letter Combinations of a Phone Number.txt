@@ -1,0 +1,25 @@
+http://oj.leetcode.com/problems/letter-combinations-of-a-phone-number/
+
+
+Letter Combinations of a Phone Number
+Total Accepted: 8960 Total Submissions: 34753
+
+Given a digit string, return all possible letter combinations that the number could represent.
+
+A mapping of digit to letters (just like on the telephone buttons) is given below.
+
+Input:Digit string "23"
+Output: ["ad", "ae", "af", "bd", "be", "bf", "cd", "ce", "cf"].
+
+Note:
+Although the above answer is in lexicographical order, your answer could be in any order you want. 
+
+
+Letter Combinations of a Phone Number
+Submission Details
+25 / 25 test cases passed.
+	Status:
+Accepted
+Runtime: 72 ms
+	
+Submitted: 3 months, 1 week ago

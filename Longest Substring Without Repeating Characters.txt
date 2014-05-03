@@ -1,0 +1,19 @@
+http://oj.leetcode.com/problems/longest-substring-without-repeating-characters/
+
+
+Longest Substring Without Repeating Characters
+Total Accepted: 12525 Total Submissions: 56058
+
+Given a string, find the length of the longest substring without repeating characters. For example, 
+the longest substring without repeating letters for "abcabcbb" is "abc", which the length is 3. 
+For "bbbbb" the longest substring is "b", with the length of 1.
+
+
+Longest Substring Without Repeating Characters
+Submission Details
+1001 / 1001 test cases passed.
+	Status:
+Accepted
+Runtime: 260 ms
+	
+Submitted: 3 months, 2 weeks ago

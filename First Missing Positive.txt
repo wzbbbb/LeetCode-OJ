@@ -1,0 +1,24 @@
+http://oj.leetcode.com/problems/first-missing-positive/
+
+
+
+First Missing Positive
+Total Accepted: 9021 Total Submissions: 41483
+
+Given an unsorted integer array, find the first missing positive integer.
+
+For example,
+Given [1,2,0] return 3,
+and [3,4,-1,1] return 2.
+
+Your algorithm should run in O(n) time and uses constant space. 
+
+
+First Missing Positive
+Submission Details
+156 / 156 test cases passed.
+	Status:
+Accepted
+Runtime: 60 ms
+	
+Submitted: 3 months, 1 week ago

@@ -1,0 +1,16 @@
+http://oj.leetcode.com/problems/insertion-sort-list/
+
+Insertion Sort List
+Total Accepted: 10630 Total Submissions: 43012
+
+Sort a linked list using insertion sort.
+
+
+
+Submission Details
+21 / 21 test cases passed.
+	Status:
+Accepted
+Runtime: 5568 ms
+	
+Submitted: 3 months ago

@@ -1,0 +1,17 @@
+http://oj.leetcode.com/problems/longest-common-prefix/
+
+
+Longest Common Prefix
+Total Accepted: 9805 Total Submissions: 36483
+
+Write a function to find the longest common prefix string amongst an array of strings. 
+
+
+Longest Common Prefix
+Submission Details
+117 / 117 test cases passed.
+	Status:
+Accepted
+Runtime: 76 ms
+	
+Submitted: 3 months, 2 weeks ago

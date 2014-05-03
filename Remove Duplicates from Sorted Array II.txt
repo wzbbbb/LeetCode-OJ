@@ -1,0 +1,24 @@
+http://oj.leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
+
+
+Remove Duplicates from Sorted Array II
+Total Accepted: 10138 Total Submissions: 33754
+
+Follow up for "Remove Duplicates":
+What if duplicates are allowed at most twice?
+
+For example,
+Given sorted array A = [1,1,1,2,2,3],
+
+Your function should return length = 5, and A is now [1,1,2,2,3]. 
+
+
+
+Remove Duplicates from Sorted Array II
+Submission Details
+164 / 164 test cases passed.
+	Status:
+Accepted
+Runtime: 216 ms
+	
+Submitted: 3 months ago

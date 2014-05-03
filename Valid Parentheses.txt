@@ -1,0 +1,19 @@
+http://oj.leetcode.com/problems/valid-parentheses/
+
+
+Valid Parentheses
+Total Accepted: 10247 Total Submissions: 36996
+
+Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
+
+The brackets must close in the correct order, "()" and "()[]{}" are all valid but "(]" and "([)]" are not.
+
+
+Valid Parentheses
+Submission Details
+61 / 61 test cases passed.
+	Status:
+Accepted
+Runtime: 72 ms
+	
+Submitted: 3 months, 1 week ago

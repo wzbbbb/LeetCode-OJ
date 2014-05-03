@@ -1,0 +1,19 @@
+http://oj.leetcode.com/problems/roman-to-integer/
+
+
+Roman to Integer
+Total Accepted: 8167 Total Submissions: 25118
+
+Given a roman numeral, convert it to an integer.
+
+Input is guaranteed to be within the range from 1 to 3999.
+
+
+Roman to Integer
+Submission Details
+3999 / 3999 test cases passed.
+	Status:
+Accepted
+Runtime: 612 ms
+	
+Submitted: 3 months, 1 week ago

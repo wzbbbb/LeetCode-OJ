@@ -1,0 +1,21 @@
+http://oj.leetcode.com/problems/permutations-ii/
+
+
+Permutations II
+Total Accepted: 8849 Total Submissions: 35868
+
+Given a collection of numbers that might contain duplicates, return all possible unique permutations.
+
+For example,
+[1,1,2] have the following unique permutations:
+[1,1,2], [1,2,1], and [2,1,1]. 
+
+
+Permutations II
+Submission Details
+30 / 30 test cases passed.
+	Status:
+Accepted
+Runtime: 428 ms
+	
+Submitted: 3 months, 2 weeks ago

@@ -1,0 +1,17 @@
+http://oj.leetcode.com/problems/merge-k-sorted-lists/
+
+
+Merge k Sorted Lists
+Total Accepted: 9860 Total Submissions: 42121
+
+Merge k sorted linked lists and return it as one sorted list. Analyze and describe its complexity. 
+
+
+Merge k Sorted Lists
+Submission Details
+129 / 129 test cases passed.
+	Status:
+Accepted
+Runtime: 660 ms
+	
+Submitted: 2 months, 3 weeks ago

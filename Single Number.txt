@@ -1,0 +1,19 @@
+http://oj.leetcode.com/problems/single-number/
+
+Single Number
+Total Accepted: 19455 Total Submissions: 43261
+
+Given an array of integers, every element appears twice except for one. Find that single one.
+
+Note:
+Your algorithm should have a linear runtime complexity. Could you implement it without using extra memory? 
+
+
+Single Number
+Submission Details
+14 / 14 test cases passed.
+	Status:
+Accepted
+Runtime: 160 ms
+	
+Submitted: 2 months, 3 weeks ago

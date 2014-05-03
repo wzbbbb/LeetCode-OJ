@@ -1,0 +1,19 @@
+http://oj.leetcode.com/problems/implement-strstr/
+
+
+Implement strStr()
+Total Accepted: 10183 Total Submissions: 48559
+
+Implement strStr().
+
+Returns a pointer to the first occurrence of needle in haystack, or null if needle is not part of haystack. 
+
+
+Implement strStr()
+Submission Details
+67 / 67 test cases passed.
+	Status:
+Accepted
+Runtime: 144 ms
+	
+Submitted: 3 months, 1 week ago

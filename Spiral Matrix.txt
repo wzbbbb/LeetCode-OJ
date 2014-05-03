@@ -1,0 +1,29 @@
+http://oj.leetcode.com/problems/spiral-matrix/
+
+
+Spiral Matrix
+Total Accepted: 7303 Total Submissions: 36124
+
+Given a matrix of m x n elements (m rows, n columns), return all elements of the matrix in spiral order.
+
+For example,
+Given the following matrix:
+
+[
+ [ 1, 2, 3 ],
+ [ 4, 5, 6 ],
+ [ 7, 8, 9 ]
+]
+
+You should return [1,2,3,6,9,8,7,4,5]. 
+
+
+
+Spiral Matrix
+Submission Details
+21 / 21 test cases passed.
+	Status:
+Accepted
+Runtime: 100 ms
+	
+Submitted: 3 months, 1 week ago

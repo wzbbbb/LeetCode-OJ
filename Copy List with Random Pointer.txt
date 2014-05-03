@@ -1,0 +1,18 @@
+http://oj.leetcode.com/problems/copy-list-with-random-pointer/
+
+Copy List with Random Pointer
+Total Accepted: 10092 Total Submissions: 45153
+
+A linked list is given such that each node contains an additional random pointer which could point to any node in the list or null.
+
+Return a deep copy of the list. 
+
+
+Copy List with Random Pointer
+Submission Details
+11 / 11 test cases passed.
+	Status:
+Accepted
+Runtime: 792 ms
+	
+Submitted: 2 months, 2 weeks ago

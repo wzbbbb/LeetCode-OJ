@@ -1,0 +1,19 @@
+http://oj.leetcode.com/problems/plus-one/
+
+
+Plus One
+Total Accepted: 10379 Total Submissions: 33952
+
+Given a non-negative number represented as an array of digits, plus one to the number.
+
+The digits are stored such that the most significant digit is at the head of the list.
+
+
+Plus One
+Submission Details
+108 / 108 test cases passed.
+	Status:
+Accepted
+Runtime: 112 ms
+	
+Submitted: 3 months, 1 week ago

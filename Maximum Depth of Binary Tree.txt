@@ -1,0 +1,19 @@
+http://oj.leetcode.com/problems/maximum-depth-of-binary-tree/
+
+
+Maximum Depth of Binary Tree
+Total Accepted: 16110 Total Submissions: 37075
+
+Given a binary tree, find its maximum depth.
+
+The maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node.
+
+
+Maximum Depth of Binary Tree
+Submission Details
+38 / 38 test cases passed.
+	Status:
+Accepted
+Runtime: 384 ms
+	
+Submitted: 2 months, 3 weeks ago

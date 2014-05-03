@@ -1,0 +1,36 @@
+http://oj.leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+
+
+Construct Binary Tree from Preorder and Inorder Traversal
+Total Accepted: 7951 Total Submissions: 30952
+
+Given preorder and inorder traversal of a tree, construct the binary tree.
+
+Note:
+You may assume that duplicates do not exist in the tree. 
+
+
+Solution 1
+
+
+Construct Binary Tree from Preorder and Inorder Traversal
+Submission Details
+202 / 202 test cases passed.
+	Status:
+Accepted
+Runtime: 1032 ms
+	
+Submitted: 2 months, 3 weeks ago
+
+
+
+Solution 2
+
+Construct Binary Tree from Preorder and Inorder Traversal
+Submission Details
+202 / 202 test cases passed.
+	Status:
+Accepted
+Runtime: 1000 ms
+	
+Submitted: 2 months, 3 weeks ago

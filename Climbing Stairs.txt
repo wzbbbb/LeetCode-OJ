@@ -1,0 +1,19 @@
+http://oj.leetcode.com/problems/climbing-stairs/
+
+
+Climbing Stairs
+Total Accepted: 12698 Total Submissions: 38998
+
+You are climbing a stair case. It takes n steps to reach to the top.
+
+Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top? 
+
+
+Submission Details
+45 / 45 test cases passed.
+	Status:
+Accepted
+Runtime: 100 ms
+	
+Submitted: 3 months, 1 week ago
+

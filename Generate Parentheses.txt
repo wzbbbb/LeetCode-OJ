@@ -1,0 +1,21 @@
+http://oj.leetcode.com/problems/generate-parentheses/
+
+
+Generate Parentheses
+Total Accepted: 11018 Total Submissions: 35874
+
+Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses.
+
+For example, given n = 3, a solution set is:
+
+"((()))", "(()())", "(())()", "()(())", "()()()" 
+
+
+Generate Parentheses
+Submission Details
+8 / 8 test cases passed.
+	Status:
+Accepted
+Runtime: 348 ms
+	
+Submitted: 3 months, 1 week ago

@@ -1,0 +1,18 @@
+http://oj.leetcode.com/problems/powx-n/
+
+
+Pow(x, n)
+Total Accepted: 12315 Total Submissions: 47691
+
+Implement pow(x, n). 
+
+
+Pow(x, n)
+Submission Details
+299 / 299 test cases passed.
+	Status:
+Accepted
+Runtime: 196 ms
+	
+Submitted: 3 months, 1 week ago
+

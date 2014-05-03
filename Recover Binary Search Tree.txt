@@ -1,0 +1,24 @@
+http://oj.leetcode.com/problems/recover-binary-search-tree/
+
+
+Recover Binary Search Tree
+Total Accepted: 8123 Total Submissions: 35920
+
+Two elements of a binary search tree (BST) are swapped by mistake.
+
+Recover the tree without changing its structure.
+Note:
+A solution using O(n) space is pretty straight forward. Could you devise a constant space solution?
+
+confused what "{1,#,2,3}" means? > read more on how binary tree is serialized on OJ.
+
+
+Recover Binary Search Tree
+Submission Details
+2516 / 2516 test cases passed.
+	Status:
+Accepted
+Runtime: 880 ms
+	
+Submitted: 2 months, 3 weeks ago
+

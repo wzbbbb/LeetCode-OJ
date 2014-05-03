@@ -1,0 +1,19 @@
+http://oj.leetcode.com/problems/merge-two-sorted-lists/
+
+Merge Two Sorted Lists
+Total Accepted: 13584 Total Submissions: 42161
+
+Merge two sorted linked lists and return it as a new list. The new list should be made by splicing 
+together the nodes of the first two lists.
+
+
+Merge Two Sorted Lists
+Submission Details
+208 / 208 test cases passed.
+	Status:
+Accepted
+Runtime: 148 ms
+	
+Submitted: 3 months, 1 week ago
+
+

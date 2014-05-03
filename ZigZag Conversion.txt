@@ -1,0 +1,30 @@
+http://oj.leetcode.com/problems/zigzag-conversion/
+
+
+ZigZag Conversion
+Total Accepted: 6804 Total Submissions: 29604
+
+The string "PAYPALISHIRING" is written in a zigzag pattern on a given number of rows like this: (you may want to display this pattern in a fixed font for better legibility)
+
+P   A   H   N
+A P L S I I G
+Y   I   R
+
+And then read line by line: "PAHNAPLSIIGYIR"
+
+Write the code that will take a string and make this conversion given a number of rows:
+
+string convert(string text, int nRows);
+
+convert("PAYPALISHIRING", 3) should return "PAHNAPLSIIGYIR". 
+
+
+
+ZigZag Conversion
+Submission Details
+1158 / 1158 test cases passed.
+	Status:
+Accepted
+Runtime: 344 ms
+	
+Submitted: 3 months, 2 weeks ago

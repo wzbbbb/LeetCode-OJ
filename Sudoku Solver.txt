@@ -1,0 +1,28 @@
+http://oj.leetcode.com/problems/sudoku-solver/
+
+
+Sudoku Solver
+Total Accepted: 6211 Total Submissions: 30448
+
+Write a program to solve a Sudoku puzzle by filling the empty cells.
+
+Empty cells are indicated by the character '.'.
+
+You may assume that there will be only one unique solution.
+
+
+A sudoku puzzle...
+
+
+...and its solution numbers marked in red. 
+
+
+
+Sudoku Solver
+Submission Details
+6 / 6 test cases passed.
+	Status:
+Accepted
+Runtime: 3204 ms
+	
+Submitted: 3 months, 1 week ago

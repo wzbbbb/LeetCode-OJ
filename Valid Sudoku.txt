@@ -1,0 +1,26 @@
+http://oj.leetcode.com/problems/valid-sudoku/
+
+
+Valid Sudoku
+Total Accepted: 7183 Total Submissions: 26204
+
+Determine if a Sudoku is valid, according to: Sudoku Puzzles - The Rules.
+
+The Sudoku board could be partially filled, where empty cells are filled with the character '.'.
+
+
+A partially filled sudoku which is valid.
+
+Note:
+A valid Sudoku board (partially filled) is not necessarily solvable. Only the filled cells need to be validated. 
+
+
+Valid Sudoku
+Submission Details
+501 / 501 test cases passed.
+	Status:
+Accepted
+Runtime: 336 ms
+	
+Submitted: 3 months, 1 week ago
+

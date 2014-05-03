@@ -1,0 +1,21 @@
+http://oj.leetcode.com/problems/longest-valid-parentheses/
+
+
+Longest Valid Parentheses
+Total Accepted: 8032 Total Submissions: 42898
+
+Given a string containing just the characters '(' and ')', find the length of the longest valid (well-formed) parentheses substring.
+
+For "(()", the longest valid parentheses substring is "()", which has length = 2.
+
+Another example is ")()())", where the longest valid parentheses substring is "()()", which has length = 4. 
+
+
+Longest Valid Parentheses
+Submission Details
+229 / 229 test cases passed.
+	Status:
+Accepted
+Runtime: 208 ms
+	
+Submitted: 3 months, 1 week ago
