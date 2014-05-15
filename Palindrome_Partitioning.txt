@@ -1,0 +1,21 @@
+http://oj.leetcode.com/problems/palindrome-partitioning/
+Palindrome Partitioning Total Accepted: 10322 Total Submissions: 40217 My Submissions
+Given a string s, partition s such that every substring of the partition is a palindrome.
+
+Return all possible palindrome partitioning of s.
+
+For example, given s = "aab",
+Return
+
+  [
+    ["aa","b"],
+    ["a","a","b"]
+  ]
+
+Palindrome Partitioning
+
+Submission Details
+20 / 20 test cases passed.
+Status: Accepted
+Runtime: 464 ms
+Submitted: 2 minutes ago
