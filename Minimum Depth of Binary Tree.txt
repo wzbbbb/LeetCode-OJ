@@ -18,3 +18,22 @@ Accepted
 Runtime: 520 ms
 	
 Submitted: 2 months, 3 weeks ago
+
+Solution 2:
+Minimum Depth of Binary Tree
+
+Submission Details
+41 / 41 test cases passed.
+Status: Accepted
+Runtime: 292 ms
+Submitted: 22 hours, 16 minutes ago
+
+Solution 3:
+Minimum Depth of Binary Tree
+
+Submission Details
+41 / 41 test cases passed.
+Status: Accepted
+Runtime: 164 ms
+Submitted: 22 hours, 2 minutes ago
+
