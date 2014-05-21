@@ -1,0 +1,21 @@
+https://oj.leetcode.com/problems/validate-binary-search-tree/
+Validate Binary Search Tree
+Total Accepted: 12352 Total Submissions: 48513
+
+Given a binary tree, determine if it is a valid binary search tree (BST).
+
+Assume a BST is defined as follows:
+
+    The left subtree of a node contains only nodes with keys less than the node's key.
+    The right subtree of a node contains only nodes with keys greater than the node's key.
+    Both the left and right subtrees must also be binary search trees.
+
+
+Validate Binary Search Tree
+Submission Details
+54 / 54 test cases passed.
+	Status:
+Accepted
+Runtime: 300 ms
+	
+Submitted: 1 hour, 21 minutes ago
