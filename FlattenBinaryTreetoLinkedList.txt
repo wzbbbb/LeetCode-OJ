@@ -1,0 +1,32 @@
+Flatten Binary Tree to Linked List Total Accepted: 12873 Total Submissions: 47350 My Submissions
+Given a binary tree, flatten it to a linked list in-place.
+
+For example,
+Given
+
+         1
+        / \
+       2   5
+      / \   \
+     3   4   6
+The flattened tree should look like:
+   1
+    \
+     2
+      \
+       3
+        \
+         4
+          \
+           5
+            \
+             6
+
+Flatten Binary Tree to Linked List
+
+Submission Details
+225 / 225 test cases passed.
+Status: Accepted
+Runtime: 212 ms
+Submitted: 1 minute ago
+
