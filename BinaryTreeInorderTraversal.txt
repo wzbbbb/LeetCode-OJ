@@ -1,0 +1,23 @@
+https://oj.leetcode.com/problems/binary-tree-inorder-traversal/
+Binary Tree Inorder Traversal Total Accepted: 18084 Total Submissions: 51781 My Submissions
+Given a binary tree, return the inorder traversal of its nodes' values.
+
+For example:
+Given binary tree {1,#,2,3},
+   1
+    \
+     2
+    /
+   3
+return [1,3,2].
+
+Note: Recursive solution is trivial, could you do it iteratively?
+
+Binary Tree Inorder Traversal
+
+Submission Details
+67 / 67 test cases passed.
+Status: Accepted
+Runtime: 196 ms
+Submitted: 5 minutes ago
+
