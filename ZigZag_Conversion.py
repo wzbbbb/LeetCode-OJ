@@ -16,17 +16,16 @@ def convert(s, nRows):
     pattern.append(i)
   for i in range(n-2, 0, -1):
     pattern.append(i)
-  print pattern
   i = 0
   while i < leng:
     for j in range(pattern_length):
-      print 'j',j, 'i',i
       A[pattern[j]] += s[i]
       i += 1
       if i == leng:  break 
-    print A
   ss=''
+  print A
   for a in A:
     ss += a
   return ss
+print s
 print convert(s, nRows)
