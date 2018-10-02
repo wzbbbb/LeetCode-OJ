@@ -7,6 +7,8 @@ A = [
 ]
 n = len(A)
 def min_path_sum(A, n, sum1=0, min_sum=None, i=0, j=0):
+  ''' recursive, working like a complete binary try
+  ''' 
   if i >= n:
     if min_sum == None or sum1 < min_sum:
       min_sum = sum1
