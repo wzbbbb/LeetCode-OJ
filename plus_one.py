@@ -16,4 +16,18 @@ def plus_one(A):
 
 print plus_one(A)
 
-
+# Submission Result: Accepted
+class Solution(object):
+    def plusOne(self, digits):
+        """
+        :type digits: List[int]
+        :rtype: List[int]
+        """
+        s = ''
+        res = []
+        for n in digits:
+            s += str(n)
+        str1 = str(int(s) +1)
+        for ss in str1:
+            res.append(int(ss))
+        return res
