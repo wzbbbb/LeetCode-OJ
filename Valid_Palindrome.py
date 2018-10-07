@@ -11,4 +11,15 @@ def validate(S):
 print  validate(S)
 
 
-
+# Submission Result: Accepted
+class Solution(object):
+    def isPalindrome(self, s):
+        """
+        :type s: str
+        :rtype: bool
+        """
+        t = ''
+        for s1 in s.lower():
+            if s1.isalpha() or s1.isdigit():
+                t += s1
+        return t == t[::-1]
