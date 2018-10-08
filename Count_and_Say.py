@@ -1,4 +1,4 @@
-n = 8 
+n = 5 
 def say(n):
   ''' A is the list of the sequence
       B is a break of A[i] with repeating chars '''
@@ -21,3 +21,24 @@ def say(n):
   return A
 print say(n)
 
+# Submission Result: Accepted , 92%
+class Solution(object):
+    def countAndSay(self, n):
+        """
+        :type n: int
+        :rtype: str
+        """
+        s = '1'
+        for i in range(1, n):
+            count = 1
+            m = len(s)
+            tmp = ''
+            for j in range(1, m):
+                if s[j] == s[j -1]:
+                    count +=1
+                else:
+                    tmp += str(count) + s[j-1]
+                    count = 1
+            tmp += str(count) + s[-1]
+            s = tmp
+        return s
