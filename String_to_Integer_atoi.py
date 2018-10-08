@@ -21,11 +21,11 @@ class Solution(object):
                 res += s[i]
             else:
                 break
-        if res == '': 
+        if res == '':
             return 0
         if int(res) * sign < 2**31 * (-1):
-            return 2**31 * (-1) 
+            return 2**31 * (-1)
         elif int(res) * sign > 2**31 -1:
             return 2**31 -1
-        else: 
+        else:
             return int(res) * sign
