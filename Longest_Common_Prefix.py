@@ -11,3 +11,26 @@ def longest_common_prefix(A):
     res = tmp
   return res
 print longest_common_prefix(A)
+
+# Submission Result: Accepted
+class Solution(object):
+    def longestCommonPrefix(self, strs):
+        """
+        :type strs: List[str]
+        :rtype: str
+        """
+        pre = ''
+        n = len(strs)
+        if n == 0: 
+            return ''
+        min1 = len(strs[0])
+        for s in strs:
+            k = len(s)
+            if min1 > k:
+                min1 = k
+        for i in range(min1):
+            for j in range(1, n):
+                if strs[j][i] != strs[j-1][i]:
+                    return pre
+            pre += strs[0][i]
+        return pre
