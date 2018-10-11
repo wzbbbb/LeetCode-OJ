@@ -16,3 +16,21 @@ def pascal_triangle(n):
     A = B[:]
   return B
 print  pascal_triangle(n)
+
+#Submission Result: Accepted  100% :D
+class Solution(object):
+    def generate(self, numRows):
+        """
+        :type numRows: int
+        :rtype: List[List[int]]
+        """
+        res = []
+        for i in range(numRows):
+            tmp = []
+            for j in range(i + 1):
+                if j == 0 or j == i:
+                    tmp.append(1)
+                else:
+                    tmp.append(res[i-1][j-1] + res[i-1][j])
+            res.append(tmp)
+        return res
