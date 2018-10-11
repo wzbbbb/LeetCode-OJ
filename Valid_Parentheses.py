@@ -8,7 +8,7 @@ def validate(s):
     if s1 == '(' or s1 == '[' or s1 =='{':
       stack.append(s1)
     else:
-      b = stack.pop()
+      b = stack.pop()   #<- this is wrong form input ']'
       if (b == '(' and s1 != ')') or (b == '[' and s1 != ']')  or ( b =='{' and s1 != '}'):
         return False
   return True
