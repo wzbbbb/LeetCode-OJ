@@ -1,0 +1,3 @@
+In an array, move all non-zero elements to left, minimize writing operation, do it in place.
+(Don't care about the zeros )
+return array length
