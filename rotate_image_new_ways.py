@@ -15,6 +15,7 @@ def rotate(A):
 print A
 print rotate(A)
 
+# also good , but a bit slow
 def rotate_in_place(A):
   """flip image diagonal (\) => i,j = j,i
    then flip  vertical from center """
@@ -29,3 +30,16 @@ def rotate_in_place(A):
 
   return A
 print rotate_in_place(A)
+#Submission Result: Accepted 96%
+class Solution(object):
+  def rotate(self, matrix):
+    """
+    :type matrix: List[List[int]]
+    :rtype: void Do not return anything, modify matrix in-place instead.
+    """
+    n = len(matrix)
+    for i in range(n):
+      for j in range(i):
+        matrix[i][j], matrix[j][i] = matrix[j][i], matrix[i][j] 
+    for i in range(n):
+      matrix[i].reverse()
