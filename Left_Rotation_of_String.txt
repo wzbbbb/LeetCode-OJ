@@ -1,0 +1,4 @@
+Problem:
+Left rotation of a string is to move some leading characters to its tail. 
+Please implement a function to rotate a string.
+For example, if the input string is “abcdefg” and a number 2, the rotated result is “cdefgab”.
