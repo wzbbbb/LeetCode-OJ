@@ -1,0 +1,9 @@
+Problem:Given a matrix with 1s and 0s, please find the number of groups of 1s. 
+A group is defined by horizontally or vertically adjacent 1s. 
+For example, there are four groups of 1s in Figure 1 which are drawn with different colors.
+1 1 0 0 1
+1 0 0 1 0
+1 1 0 1 0
+0 0 1 0 0
+
+the above has 4 groups
