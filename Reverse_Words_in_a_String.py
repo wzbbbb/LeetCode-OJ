@@ -26,3 +26,26 @@ def reverse(s):
   return res[:-1]
 
 print reverse(s) 
+
+def rev_rev(s):
+  s1 = s[::-1].strip()
+  res, word = '', ''
+  for ss in s1:
+    if ss == ' ':
+      if word != '':
+        res += word[::-1] + ' '
+        word = ''
+    else:
+      word += ss
+  res += word[::-1]
+  return res
+print rev_rev(s)
+
+def rev_list(s):
+  s1 = s[::-1].split()
+  res = ''
+  for ss in s1:
+    if ss != ' ':
+      res += ss[::-1] + ' '
+  return res[:-1]
+print rev_list(s)
