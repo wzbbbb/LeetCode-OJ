@@ -1,0 +1,13 @@
+Question:
+How to implement a function to check whether there is a path for a string in a matrix of characters?
+It moves to left, right, up and down in a matrix, and a cell for a movement. 
+The path can start from any entry in a matrix. If a cell is occupied by a character of a string on the path, 
+it cannot be occupied by another character again.
+
+For example, the matrix below with three rows and four columns has a path for the string “BCCED” (as highlighted in the matrix). 
+It does not have a path for the string “ABCB”, because the first “B” in the string occupies the “B” cell in the matrix, 
+and the second “B” in the string cannot enter into the same cell again.
+
+A B C E
+S F C S
+A D E E
