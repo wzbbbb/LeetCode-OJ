@@ -1,0 +1,14 @@
+29.Maximums  in  Sliding  WindowsQuestion:Given  an  array  of  numbers  and  a  sliding  window  size,  
+how  to  get  the  maximal  numbers  in  all  sliding  windows?
+For  example,  if  the  input  array  is  {2,  3,  4,  2,  6,  2,  5,  1}  and  the  size  of  sliding  windows  is  3,  
+the  output  of  maximums  are  {4,  4,  6,  6,  6,  5},  as  illustrated  in  Table1.
+
+Sliding  Windows  in  an  ArrayMaximums  in  Sliding  Windows
+[2,  3,  4],  2,  6,  2,  5,  1         4
+2,[3,  4,  2],  6,  2,  5,  1           4
+2,  3,[4,  2,  6],  2,  5,  1           6
+2,  3,  4,[2,  6,  2],  5,  1           6
+2,  3,  4,  2,[6,  2,  5],  1           6
+2,  3,  4,  2,  6,[2,  5,  1]           5
+Table  1:  Maximums  of  all  sliding  windows  with  size  3  in  an  array  {2,  3,  4,  2,  6,  2,  5,  1}.  
+A  pair  of  brackets  indicates  a  sliding  window.

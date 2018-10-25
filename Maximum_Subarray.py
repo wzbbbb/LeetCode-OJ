@@ -15,3 +15,23 @@ def max_subarray(A):
   
 print max_subarray(A)
 
+
+
+def max_subarray(A):
+  max1 = None
+  sum1 = None
+  for a in A:
+    if sum1 == None:
+      sum1 = a
+    elif sum1 > 0:
+      sum1 += a
+    elif sum1 < 0 and sum1 < a:
+      sum1 = a
+    else:
+      sum1 = None
+    if max1 == None:
+      max1 = sum1
+    elif max1 < sum1:
+      max1 = sum1
+  return max1
+print max_subarray(A)
