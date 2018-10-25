@@ -1,0 +1,2 @@
+Problem:
+In an array, all numbers appear three times except one which only appears only once. Please find the unique number.
