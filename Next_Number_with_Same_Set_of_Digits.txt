@@ -1,0 +1,3 @@
+Problem: 
+Reorder the digits of a number, in order to get the next number which is the least one that is greater than the input number. 
+For example, the number 34724126 is the next number of 34722641 when reordering digits.
