@@ -1,0 +1,21 @@
+2 csv files. To sort according to dinosaur speed. 
+We will use animals instead. 
+output a list of animal name
+So croc should not be included in the output
+
+speed = leg_length x stride / weight  
+
+file1:
+name,leg_length,weight, type
+cat, 1, 10,      animal
+croc, 4, 500,    reptile
+dog, 3, 40,      animal
+fox, 4, 30,      animal
+
+file2:
+leg_length, type,stride,animal
+ 1,     animal, 5,          cat
+ 3, animal , 11,         dog
+ 4,  animal, 10,        fox
+60, animal , 600,        giraffe
+4,  reptile, 30,         corc

@@ -1,0 +1,6 @@
+leg_length, type,stride,animal
+ 1,     animal, 5,          cat
+ 3, animal , 11,         dog
+ 4,  animal, 10,        fox
+60, animal , 600,        giraffe
+4,  reptile, 30,         corc
