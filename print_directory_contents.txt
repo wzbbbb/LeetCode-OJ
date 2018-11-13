@@ -1,0 +1,1 @@
+Print out all directories and file in a directory without out using os.walk
