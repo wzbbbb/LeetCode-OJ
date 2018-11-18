@@ -1,5 +1,5 @@
-name,leg_length,weight, type
-cat, 1, 10,      animal
-croc, 4, 500,    reptile
-dog, 3, 40,      animal
-fox, 4, 30,      animal
+name,leg_length,weight,type
+cat,1,10,animal
+croc,4,500,reptile
+dog,3,40,animal
+fox,4,30,animal
